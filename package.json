@@ -1,0 +1,34 @@
+{
+  "name": "karma-es6-babel-webpack",
+  "version": "1.0.0",
+  "description": "minimal setup for karma unit test in ES6 with babel, webpack",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [
+    "karma",
+    "ES6",
+    "Babel",
+    "Webpack",
+    "unit testing"
+  ],
+  "author": "Joshua Youngjae Ji",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "jasmine-core": "^2.9.1",
+    "jsdom": "^11.6.1",
+    "karma": "^2.0.0",
+    "karma-jasmine": "^1.1.1",
+    "karma-jsdom-launcher": "^6.1.2",
+    "karma-spec-reporter": "0.0.32",
+    "karma-webpack": "^2.0.9",
+    "webpack": "^3.10.0"
+  }
+}
