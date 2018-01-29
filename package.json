@@ -1,5 +1,5 @@
 {
-  "name": "karma-es6-babel-webpack",
+  "name": "karma-es6-webpack",
   "version": "1.0.0",
   "description": "minimal setup for karma unit test in ES6 with babel, webpack",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "Webpack",
     "unit testing"
   ],
-  "author": "Joshua Youngjae Ji",
+  "author": "Oscar Caceres Paredes",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
